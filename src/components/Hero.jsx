@@ -47,9 +47,8 @@ export const Hero = () => {
             Senior Frontend Engineer
           </motion.h2>
           <motion.p className="hero-description" variants={fadeInUp}>
-         Senior Frontend Engineer | Vue.js • TypeScript • GraphQL | Building Enterprise Platforms
-         I'm a Senior Frontend Engineer with 8+ years of experience building scalable, user-focused web applications, 
-         currently leading frontend development for a custom audit and accounting platform at Valtech Portugal.
+           Senior Frontend Engineer with 8+ years of experience building scalable, user-focused web applications and enterprise platforms, 
+           currently leading frontend development for a custom audit and accounting platform at Valtech Portugal.
           </motion.p>
 
           <motion.div className="cta-buttons" variants={staggerContainer}>
