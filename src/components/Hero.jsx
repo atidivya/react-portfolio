@@ -47,12 +47,9 @@ export const Hero = () => {
             Senior Frontend Engineer
           </motion.h2>
           <motion.p className="hero-description" variants={fadeInUp}>
-            As a seasoned IT professional with 7 years of experience, I have
-            honed my skills in frontend development, project management, team
-            management, and agile scrum methodologies. In my most recent role, I
-            had the opportunity to leverage my skills in revenue reconciliation,
-            leading a team that managed this critical function while also
-            training team members on new business processes.
+         Senior Frontend Engineer | Vue.js • TypeScript • GraphQL | Building Enterprise Platforms
+         I'm a Senior Frontend Engineer with 8+ years of experience building scalable, user-focused web applications, 
+         currently leading frontend development for a custom audit and accounting platform at Valtech Portugal.
           </motion.p>
 
           <motion.div className="cta-buttons" variants={staggerContainer}>
